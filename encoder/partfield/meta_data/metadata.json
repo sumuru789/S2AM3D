@@ -1,0 +1,1002 @@
+[
+    {
+        "dataset": "Objaverse",
+        "id": "e3afb2e543314bd08dc1adcbabb1e5c6",
+        "data_path": "/mnt/mydisk/data/tiny2/e3afb2e543314bd08dc1adcbabb1e5c6.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "65c6ffa083c6496eb84a0aa3c48d63ad",
+        "data_path": "/mnt/mydisk/data/tiny2/65c6ffa083c6496eb84a0aa3c48d63ad.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "0c3ca2b32545416f8f1e6f0e87def1a6",
+        "data_path": "/mnt/mydisk/data/tiny2/0c3ca2b32545416f8f1e6f0e87def1a6.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d0c8bc409e2b4b65bb7f3d020a228e35",
+        "data_path": "/mnt/mydisk/data/tiny2/d0c8bc409e2b4b65bb7f3d020a228e35.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d5cbe3dc52d94d78848c111fb959e8f2",
+        "data_path": "/mnt/mydisk/data/tiny2/d5cbe3dc52d94d78848c111fb959e8f2.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "47e55754cfde48a49c3dfe12e393dc18",
+        "data_path": "/mnt/mydisk/data/tiny2/47e55754cfde48a49c3dfe12e393dc18.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "cbb199ae1edf41c6898c997ae785c4db",
+        "data_path": "/mnt/mydisk/data/tiny2/cbb199ae1edf41c6898c997ae785c4db.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5700259eeb494b8f8a0b8f63486c59cc",
+        "data_path": "/mnt/mydisk/data/tiny2/5700259eeb494b8f8a0b8f63486c59cc.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2260799ee4e342398b64ab4ce8af1559",
+        "data_path": "/mnt/mydisk/data/tiny2/2260799ee4e342398b64ab4ce8af1559.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "02e777bdc5114b148963ed3def6ad471",
+        "data_path": "/mnt/mydisk/data/tiny2/02e777bdc5114b148963ed3def6ad471.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4af3caebbad24f25a04e4db48a85b74d",
+        "data_path": "/mnt/mydisk/data/tiny2/4af3caebbad24f25a04e4db48a85b74d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f62a1cee604c44f5a4e969cd8eca06a3",
+        "data_path": "/mnt/mydisk/data/tiny2/f62a1cee604c44f5a4e969cd8eca06a3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d4f7c4b5f9bd4284899477cb1f5bb48f",
+        "data_path": "/mnt/mydisk/data/tiny2/d4f7c4b5f9bd4284899477cb1f5bb48f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "58685e436e6242c188b95fcc2ba7c1d3",
+        "data_path": "/mnt/mydisk/data/tiny2/58685e436e6242c188b95fcc2ba7c1d3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f0d1d771d8014c919d307d63ffd24907",
+        "data_path": "/mnt/mydisk/data/tiny2/f0d1d771d8014c919d307d63ffd24907.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8d3d39516f7b40d5aa19e85226940899",
+        "data_path": "/mnt/mydisk/data/tiny2/8d3d39516f7b40d5aa19e85226940899.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "727370d6df3e47bfabc30ac1b10fb445",
+        "data_path": "/mnt/mydisk/data/tiny2/727370d6df3e47bfabc30ac1b10fb445.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "1d97ec6885464f6a9ce7a4cc955bff41",
+        "data_path": "/mnt/mydisk/data/tiny2/1d97ec6885464f6a9ce7a4cc955bff41.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b34bc2a0607846aaae8636a9bea7e43d",
+        "data_path": "/mnt/mydisk/data/tiny2/b34bc2a0607846aaae8636a9bea7e43d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3031b834ab514a0fb91e0fec151ed0ff",
+        "data_path": "/mnt/mydisk/data/tiny2/3031b834ab514a0fb91e0fec151ed0ff.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f634e3aae845402ca63e015086c9dbb4",
+        "data_path": "/mnt/mydisk/data/tiny2/f634e3aae845402ca63e015086c9dbb4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "854b37afca0c44c9a0302b879a95bfca",
+        "data_path": "/mnt/mydisk/data/tiny2/854b37afca0c44c9a0302b879a95bfca.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4f9391e9db8b453ea08c7c0109077d17",
+        "data_path": "/mnt/mydisk/data/tiny2/4f9391e9db8b453ea08c7c0109077d17.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "0d829115bb4d472da5d05cdf529b6694",
+        "data_path": "/mnt/mydisk/data/tiny2/0d829115bb4d472da5d05cdf529b6694.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "00200996b8f34f55a2dd2f44d316d107",
+        "data_path": "/mnt/mydisk/data/tiny2/00200996b8f34f55a2dd2f44d316d107.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3b4702ea84544ab5bf0cbfe91df1b789",
+        "data_path": "/mnt/mydisk/data/tiny2/3b4702ea84544ab5bf0cbfe91df1b789.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "423121778c4b4e849a029b8281c68bda",
+        "data_path": "/mnt/mydisk/data/tiny2/423121778c4b4e849a029b8281c68bda.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f70f112151514494ac859a50fa5273ff",
+        "data_path": "/mnt/mydisk/data/tiny2/f70f112151514494ac859a50fa5273ff.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2e588c7566c54e4086511411763a3e29",
+        "data_path": "/mnt/mydisk/data/tiny2/2e588c7566c54e4086511411763a3e29.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "aa1a732d4fdc44e0a20cee312a929d77",
+        "data_path": "/mnt/mydisk/data/tiny2/aa1a732d4fdc44e0a20cee312a929d77.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "963c5f8b81c045fcab90387bf3aa5143",
+        "data_path": "/mnt/mydisk/data/tiny2/963c5f8b81c045fcab90387bf3aa5143.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "614459e9cdfb4a06abbf2d6ac962a08a",
+        "data_path": "/mnt/mydisk/data/tiny2/614459e9cdfb4a06abbf2d6ac962a08a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f0742330720b49e59740835a12380219",
+        "data_path": "/mnt/mydisk/data/tiny2/f0742330720b49e59740835a12380219.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "649dd4c47d6d4dd099e518d6393e7c5b",
+        "data_path": "/mnt/mydisk/data/tiny2/649dd4c47d6d4dd099e518d6393e7c5b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4ff841231d7d4c54ac917e63c678c9fc",
+        "data_path": "/mnt/mydisk/data/tiny2/4ff841231d7d4c54ac917e63c678c9fc.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "85f745f8fab74184a66cabd3aa1edbee",
+        "data_path": "/mnt/mydisk/data/tiny2/85f745f8fab74184a66cabd3aa1edbee.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "1b41e3e63867499cada873215bf255ee",
+        "data_path": "/mnt/mydisk/data/tiny2/1b41e3e63867499cada873215bf255ee.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "cdc707fbe68c474497cb9dd676ede842",
+        "data_path": "/mnt/mydisk/data/tiny2/cdc707fbe68c474497cb9dd676ede842.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "abb0b5c646374beda83954fc2803d968",
+        "data_path": "/mnt/mydisk/data/tiny2/abb0b5c646374beda83954fc2803d968.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4c387f86d1b4436f86abb37ee060fd7a",
+        "data_path": "/mnt/mydisk/data/tiny2/4c387f86d1b4436f86abb37ee060fd7a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2084a523a5df4567844524afef5912db",
+        "data_path": "/mnt/mydisk/data/tiny2/2084a523a5df4567844524afef5912db.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "26b87e15e15b449fae1b57bdd6d477ef",
+        "data_path": "/mnt/mydisk/data/tiny2/26b87e15e15b449fae1b57bdd6d477ef.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4b57e73e82ab400aa307adac36ea0e5e",
+        "data_path": "/mnt/mydisk/data/tiny2/4b57e73e82ab400aa307adac36ea0e5e.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "0c4e4a0b2a374553ae762bb33e8dd2d0",
+        "data_path": "/mnt/mydisk/data/tiny2/0c4e4a0b2a374553ae762bb33e8dd2d0.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2f7852f6833d4eb69ee3f6ef5fac5738",
+        "data_path": "/mnt/mydisk/data/tiny2/2f7852f6833d4eb69ee3f6ef5fac5738.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "ee67f09ba90c4b91bd2ff00e24332345",
+        "data_path": "/mnt/mydisk/data/tiny2/ee67f09ba90c4b91bd2ff00e24332345.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b8c12a34914f41c18bc4d2c3a9710562",
+        "data_path": "/mnt/mydisk/data/tiny2/b8c12a34914f41c18bc4d2c3a9710562.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8512669067e448a9b1d3fb78bf0c61c6",
+        "data_path": "/mnt/mydisk/data/tiny2/8512669067e448a9b1d3fb78bf0c61c6.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "6ea331125ac747c1b8640dc80d90d4cd",
+        "data_path": "/mnt/mydisk/data/tiny2/6ea331125ac747c1b8640dc80d90d4cd.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f000c34e5d2a4d2399ccf1ebb83f956c",
+        "data_path": "/mnt/mydisk/data/tiny2/f000c34e5d2a4d2399ccf1ebb83f956c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5f1e1e7148424a6bae25b5138ba0088e",
+        "data_path": "/mnt/mydisk/data/tiny2/5f1e1e7148424a6bae25b5138ba0088e.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "da7af66ce5df4629802e97dc03d186f5",
+        "data_path": "/mnt/mydisk/data/tiny2/da7af66ce5df4629802e97dc03d186f5.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "dd76ce99626246889beeb477d6ad2c17",
+        "data_path": "/mnt/mydisk/data/tiny2/dd76ce99626246889beeb477d6ad2c17.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "11ad3b320ee74185ae4ba26ddc910b52",
+        "data_path": "/mnt/mydisk/data/tiny2/11ad3b320ee74185ae4ba26ddc910b52.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "245af7dde0cd4add9f7e11db3bbbccba",
+        "data_path": "/mnt/mydisk/data/tiny2/245af7dde0cd4add9f7e11db3bbbccba.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "074c0b05d9644dd0ab5e2b932fa2bb5a",
+        "data_path": "/mnt/mydisk/data/tiny2/074c0b05d9644dd0ab5e2b932fa2bb5a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "01fe14f50de443e4b11ad1fe033df666",
+        "data_path": "/mnt/mydisk/data/tiny2/01fe14f50de443e4b11ad1fe033df666.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "c93ee36deda14b4aa73c2b5a9d9e9c9f",
+        "data_path": "/mnt/mydisk/data/tiny2/c93ee36deda14b4aa73c2b5a9d9e9c9f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f56267bbe2ab41428f4d7148876eced1",
+        "data_path": "/mnt/mydisk/data/tiny2/f56267bbe2ab41428f4d7148876eced1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3acbbe6269234a22b93f7e44aa8b1798",
+        "data_path": "/mnt/mydisk/data/tiny2/3acbbe6269234a22b93f7e44aa8b1798.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "abdad363791d456786cdb511082d9d63",
+        "data_path": "/mnt/mydisk/data/tiny2/abdad363791d456786cdb511082d9d63.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3eac61535005406885ad708b4eb375e9",
+        "data_path": "/mnt/mydisk/data/tiny2/3eac61535005406885ad708b4eb375e9.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2830f5fdb88942d5a3285a7433b4efea",
+        "data_path": "/mnt/mydisk/data/tiny2/2830f5fdb88942d5a3285a7433b4efea.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "9338271b6aea4de89bbe37d7bc0abcfe",
+        "data_path": "/mnt/mydisk/data/tiny2/9338271b6aea4de89bbe37d7bc0abcfe.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "e12beb2008d348a9b48e6d2beb2121b1",
+        "data_path": "/mnt/mydisk/data/tiny2/e12beb2008d348a9b48e6d2beb2121b1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "97582e1d16f6471bac014081535c26ad",
+        "data_path": "/mnt/mydisk/data/tiny2/97582e1d16f6471bac014081535c26ad.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "ca86a57984f948e1b5c46a20c09a6223",
+        "data_path": "/mnt/mydisk/data/tiny2/ca86a57984f948e1b5c46a20c09a6223.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "95364de582474cf3ab38ca4bae946652",
+        "data_path": "/mnt/mydisk/data/tiny2/95364de582474cf3ab38ca4bae946652.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "a45db53fa2fc4e94955e59aed66aa0c3",
+        "data_path": "/mnt/mydisk/data/tiny2/a45db53fa2fc4e94955e59aed66aa0c3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "844fc9a82f46421c9f10804bd8055212",
+        "data_path": "/mnt/mydisk/data/tiny2/844fc9a82f46421c9f10804bd8055212.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "63536adbd96147a8869ee36d7f6cfd92",
+        "data_path": "/mnt/mydisk/data/tiny2/63536adbd96147a8869ee36d7f6cfd92.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b51e3cb5e548409f940eb38f8db551d2",
+        "data_path": "/mnt/mydisk/data/tiny2/b51e3cb5e548409f940eb38f8db551d2.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "9d6b66aba431493097f289a6e42f3614",
+        "data_path": "/mnt/mydisk/data/tiny2/9d6b66aba431493097f289a6e42f3614.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5fb5b1704b464f5c94b667f1b630bb39",
+        "data_path": "/mnt/mydisk/data/tiny2/5fb5b1704b464f5c94b667f1b630bb39.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "358eb80d4d074dee8cd65b4b0fa187f7",
+        "data_path": "/mnt/mydisk/data/tiny2/358eb80d4d074dee8cd65b4b0fa187f7.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3b204e1c8fa34183821cf925128f545c",
+        "data_path": "/mnt/mydisk/data/tiny2/3b204e1c8fa34183821cf925128f545c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "226887c32c7a4a1f97de694e9bdbd10d",
+        "data_path": "/mnt/mydisk/data/tiny2/226887c32c7a4a1f97de694e9bdbd10d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "7fa9a73e4fc4477d82c8d3dadeb72c65",
+        "data_path": "/mnt/mydisk/data/tiny2/7fa9a73e4fc4477d82c8d3dadeb72c65.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "da0ea36b7904452dbd00952aeb4c453e",
+        "data_path": "/mnt/mydisk/data/tiny2/da0ea36b7904452dbd00952aeb4c453e.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8a5c0fd0d4bc45128f3ee5c65a32e54f",
+        "data_path": "/mnt/mydisk/data/tiny2/8a5c0fd0d4bc45128f3ee5c65a32e54f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "63695230beb44ae68650bdd4d914917f",
+        "data_path": "/mnt/mydisk/data/tiny2/63695230beb44ae68650bdd4d914917f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b1f98b0e3d4446c1ba4ff9ba2660aff7",
+        "data_path": "/mnt/mydisk/data/tiny2/b1f98b0e3d4446c1ba4ff9ba2660aff7.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "53d9d21ff95f42428225f906cd9a0a5a",
+        "data_path": "/mnt/mydisk/data/tiny2/53d9d21ff95f42428225f906cd9a0a5a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "74c05ea2f5d64357a75e4ecafb9570f9",
+        "data_path": "/mnt/mydisk/data/tiny2/74c05ea2f5d64357a75e4ecafb9570f9.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "70cae8050a1c4d3abd6681ba892a9a44",
+        "data_path": "/mnt/mydisk/data/tiny2/70cae8050a1c4d3abd6681ba892a9a44.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d75e06c3ff8f44f9a9b163399e43f0fd",
+        "data_path": "/mnt/mydisk/data/tiny2/d75e06c3ff8f44f9a9b163399e43f0fd.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "1b4484ff850e4580a96eb29ade0c98a4",
+        "data_path": "/mnt/mydisk/data/tiny2/1b4484ff850e4580a96eb29ade0c98a4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "395af3909e9d4152b713769ae9182ef0",
+        "data_path": "/mnt/mydisk/data/tiny2/395af3909e9d4152b713769ae9182ef0.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2e5436e635dc4336984c76a5f92c7141",
+        "data_path": "/mnt/mydisk/data/tiny2/2e5436e635dc4336984c76a5f92c7141.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "cffd007512a74a47b48390e1777c2afa",
+        "data_path": "/mnt/mydisk/data/tiny2/cffd007512a74a47b48390e1777c2afa.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b3a58da30f464dbba1c53c7f3cbedec9",
+        "data_path": "/mnt/mydisk/data/tiny2/b3a58da30f464dbba1c53c7f3cbedec9.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "554899583c654f3e84ba4b4263b4bb94",
+        "data_path": "/mnt/mydisk/data/tiny2/554899583c654f3e84ba4b4263b4bb94.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "439ee7ebf11d45739dbef21b91669c1b",
+        "data_path": "/mnt/mydisk/data/tiny2/439ee7ebf11d45739dbef21b91669c1b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "25a8ae3794594941bb2f7091d608b336",
+        "data_path": "/mnt/mydisk/data/tiny2/25a8ae3794594941bb2f7091d608b336.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "e56ee981a9504153b98e707d6e9c757c",
+        "data_path": "/mnt/mydisk/data/tiny2/e56ee981a9504153b98e707d6e9c757c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4c1be75a50094357892d1cb8b6ad3f34",
+        "data_path": "/mnt/mydisk/data/tiny2/4c1be75a50094357892d1cb8b6ad3f34.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2dd2980caf87450d9ef7e42adb43f2ca",
+        "data_path": "/mnt/mydisk/data/tiny2/2dd2980caf87450d9ef7e42adb43f2ca.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "7b15e31faa7141329dad5f83089f678a",
+        "data_path": "/mnt/mydisk/data/tiny2/7b15e31faa7141329dad5f83089f678a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "cbafed33e2f7412c97ba3941c399b2df",
+        "data_path": "/mnt/mydisk/data/tiny2/cbafed33e2f7412c97ba3941c399b2df.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "1b3e8b99913442308aa989e3f87680b3",
+        "data_path": "/mnt/mydisk/data/tiny2/1b3e8b99913442308aa989e3f87680b3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "c209c30d7a1843918ea5df1c61d594a5",
+        "data_path": "/mnt/mydisk/data/tiny2/c209c30d7a1843918ea5df1c61d594a5.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "6a834c1320c245ac87d16784683aeeec",
+        "data_path": "/mnt/mydisk/data/tiny2/6a834c1320c245ac87d16784683aeeec.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "416ea8eb185542499bab9b523c072fd6",
+        "data_path": "/mnt/mydisk/data/tiny2/416ea8eb185542499bab9b523c072fd6.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "efccf91fd1ed49289853125f25c0c9ae",
+        "data_path": "/mnt/mydisk/data/tiny2/efccf91fd1ed49289853125f25c0c9ae.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "186ecaa38ee9468eb222328852afbd7c",
+        "data_path": "/mnt/mydisk/data/tiny2/186ecaa38ee9468eb222328852afbd7c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "404f12ba60f444bca620c4405ef50bab",
+        "data_path": "/mnt/mydisk/data/tiny2/404f12ba60f444bca620c4405ef50bab.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "78a7c30405f64b0f8137c3922c1464a0",
+        "data_path": "/mnt/mydisk/data/tiny2/78a7c30405f64b0f8137c3922c1464a0.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "144bf300ef43437096e4be61f4575bab",
+        "data_path": "/mnt/mydisk/data/tiny2/144bf300ef43437096e4be61f4575bab.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8208ec4c0f204a0f96f41fb4154264ce",
+        "data_path": "/mnt/mydisk/data/tiny2/8208ec4c0f204a0f96f41fb4154264ce.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "13cc3ffc69964894a2bc94154aed687f",
+        "data_path": "/mnt/mydisk/data/tiny2/13cc3ffc69964894a2bc94154aed687f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f121301624174b179ca4d50158797b03",
+        "data_path": "/mnt/mydisk/data/tiny2/f121301624174b179ca4d50158797b03.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5eba9c3b53294dc08605c801f8152bbe",
+        "data_path": "/mnt/mydisk/data/tiny2/5eba9c3b53294dc08605c801f8152bbe.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "ab9804f981184f8db6f1f814c2b8c169",
+        "data_path": "/mnt/mydisk/data/tiny2/ab9804f981184f8db6f1f814c2b8c169.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "55fcb4c56c9345e0bb18738061aeb7a1",
+        "data_path": "/mnt/mydisk/data/tiny2/55fcb4c56c9345e0bb18738061aeb7a1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "062c791e78a643f7bd380c336f809389",
+        "data_path": "/mnt/mydisk/data/tiny2/062c791e78a643f7bd380c336f809389.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "7c8bd48528554b3da47f2510287d78b4",
+        "data_path": "/mnt/mydisk/data/tiny2/7c8bd48528554b3da47f2510287d78b4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b7fce3003d95479a9226f7cb639df893",
+        "data_path": "/mnt/mydisk/data/tiny2/b7fce3003d95479a9226f7cb639df893.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5ae22f04776a4a06997eb427eafcb07c",
+        "data_path": "/mnt/mydisk/data/tiny2/5ae22f04776a4a06997eb427eafcb07c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "ed24b6e27921449f935509d9f3da043f",
+        "data_path": "/mnt/mydisk/data/tiny2/ed24b6e27921449f935509d9f3da043f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b5aa31a84cc746a982228827c5185ac3",
+        "data_path": "/mnt/mydisk/data/tiny2/b5aa31a84cc746a982228827c5185ac3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5c670e2d8c014a35be0710652e87473a",
+        "data_path": "/mnt/mydisk/data/tiny2/5c670e2d8c014a35be0710652e87473a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8b8e14ddf5104c579a6dd100ff8c0bdb",
+        "data_path": "/mnt/mydisk/data/tiny2/8b8e14ddf5104c579a6dd100ff8c0bdb.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "73fc1424ee9c4dd9bee17702aab2b7b3",
+        "data_path": "/mnt/mydisk/data/tiny2/73fc1424ee9c4dd9bee17702aab2b7b3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "fd5b1428b91c47f1a74d98bb92c9fbe1",
+        "data_path": "/mnt/mydisk/data/tiny2/fd5b1428b91c47f1a74d98bb92c9fbe1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3d55d8d947c2402498c23c1d6dbce934",
+        "data_path": "/mnt/mydisk/data/tiny2/3d55d8d947c2402498c23c1d6dbce934.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d7570691b670496bb670a9fc1d28057c",
+        "data_path": "/mnt/mydisk/data/tiny2/d7570691b670496bb670a9fc1d28057c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f45ac2100d2342fa8ab39d38d0f874ba",
+        "data_path": "/mnt/mydisk/data/tiny2/f45ac2100d2342fa8ab39d38d0f874ba.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4017fc4184ef4c2782a0231113258a17",
+        "data_path": "/mnt/mydisk/data/tiny2/4017fc4184ef4c2782a0231113258a17.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "86670b8918b3487092e86a60ab5b641c",
+        "data_path": "/mnt/mydisk/data/tiny2/86670b8918b3487092e86a60ab5b641c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "002e462c8bfa4267a9c9f038c7966f3b",
+        "data_path": "/mnt/mydisk/data/tiny2/002e462c8bfa4267a9c9f038c7966f3b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "1c2814ba1a6d43e8a27fcb1d26b6aabf",
+        "data_path": "/mnt/mydisk/data/tiny2/1c2814ba1a6d43e8a27fcb1d26b6aabf.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8730f3aafc784a849de8e9f2d9c707f8",
+        "data_path": "/mnt/mydisk/data/tiny2/8730f3aafc784a849de8e9f2d9c707f8.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "29e480b958df44a2ac3a4ed12b7ee1a0",
+        "data_path": "/mnt/mydisk/data/tiny2/29e480b958df44a2ac3a4ed12b7ee1a0.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "891c88fa5ed0452aa5e77e2e98a00531",
+        "data_path": "/mnt/mydisk/data/tiny2/891c88fa5ed0452aa5e77e2e98a00531.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2452cceb3ce7430ab033be6d5fc12a6e",
+        "data_path": "/mnt/mydisk/data/tiny2/2452cceb3ce7430ab033be6d5fc12a6e.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "474fd643f4204ee59ff73fe9b1916239",
+        "data_path": "/mnt/mydisk/data/tiny2/474fd643f4204ee59ff73fe9b1916239.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "6568e5d622254ccdba3503288faed773",
+        "data_path": "/mnt/mydisk/data/tiny2/6568e5d622254ccdba3503288faed773.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "7c6ac3a8aa4b472fbc31ed8cf50703d2",
+        "data_path": "/mnt/mydisk/data/tiny2/7c6ac3a8aa4b472fbc31ed8cf50703d2.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "687e47474eb84ef285b1df164e0788fb",
+        "data_path": "/mnt/mydisk/data/tiny2/687e47474eb84ef285b1df164e0788fb.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b7ce14aa504e4bbfa7122c444150999f",
+        "data_path": "/mnt/mydisk/data/tiny2/b7ce14aa504e4bbfa7122c444150999f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f1150d2342a8470e912942c49e978f28",
+        "data_path": "/mnt/mydisk/data/tiny2/f1150d2342a8470e912942c49e978f28.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "78c7c67eae00428b9bc50c288776c75b",
+        "data_path": "/mnt/mydisk/data/tiny2/78c7c67eae00428b9bc50c288776c75b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8eda5c8b64f64096b3995a08f6095644",
+        "data_path": "/mnt/mydisk/data/tiny2/8eda5c8b64f64096b3995a08f6095644.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "7b7b140d42cf447d87ab5e1ef407d9ae",
+        "data_path": "/mnt/mydisk/data/tiny2/7b7b140d42cf447d87ab5e1ef407d9ae.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "00aee5c2fef743d69421bb642d446a5b",
+        "data_path": "/mnt/mydisk/data/tiny2/00aee5c2fef743d69421bb642d446a5b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "13399a61f6414e4f94bdcb8ad4dbc7ce",
+        "data_path": "/mnt/mydisk/data/tiny2/13399a61f6414e4f94bdcb8ad4dbc7ce.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "a95c590e89444458b53a15190c7560c3",
+        "data_path": "/mnt/mydisk/data/tiny2/a95c590e89444458b53a15190c7560c3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "238bdb0c4e3e4432951c31c85a55a9c8",
+        "data_path": "/mnt/mydisk/data/tiny2/238bdb0c4e3e4432951c31c85a55a9c8.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "67e2e51a2c87480a999293f3c554d61d",
+        "data_path": "/mnt/mydisk/data/tiny2/67e2e51a2c87480a999293f3c554d61d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8d4357a4152e421884823d3c2d3da14a",
+        "data_path": "/mnt/mydisk/data/tiny2/8d4357a4152e421884823d3c2d3da14a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "68834dab6d6c46bb8fb7ca4d5c218b67",
+        "data_path": "/mnt/mydisk/data/tiny2/68834dab6d6c46bb8fb7ca4d5c218b67.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8ec56d0baa8f492da805fcf2ea98de4b",
+        "data_path": "/mnt/mydisk/data/tiny2/8ec56d0baa8f492da805fcf2ea98de4b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "25a32b2b119948c3b905a21db1098f45",
+        "data_path": "/mnt/mydisk/data/tiny2/25a32b2b119948c3b905a21db1098f45.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "98c26e7d386c466e982ec81e89d42b06",
+        "data_path": "/mnt/mydisk/data/tiny2/98c26e7d386c466e982ec81e89d42b06.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8ca1867c11bb48a39eb2aca203beb70b",
+        "data_path": "/mnt/mydisk/data/tiny2/8ca1867c11bb48a39eb2aca203beb70b.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5fad3a288517425e96b5cc4a86ebfb46",
+        "data_path": "/mnt/mydisk/data/tiny2/5fad3a288517425e96b5cc4a86ebfb46.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "71daf747a9b54b9299cc495533141eb5",
+        "data_path": "/mnt/mydisk/data/tiny2/71daf747a9b54b9299cc495533141eb5.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "de56c4a3d0134a949a74e56e40024f86",
+        "data_path": "/mnt/mydisk/data/tiny2/de56c4a3d0134a949a74e56e40024f86.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "9e7856dd34ae444a934499782c5bd606",
+        "data_path": "/mnt/mydisk/data/tiny2/9e7856dd34ae444a934499782c5bd606.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f74229e6014d4d7d8572095b1eac41e3",
+        "data_path": "/mnt/mydisk/data/tiny2/f74229e6014d4d7d8572095b1eac41e3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "ea7259d5a16544c08369264acb581f89",
+        "data_path": "/mnt/mydisk/data/tiny2/ea7259d5a16544c08369264acb581f89.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f98f9602167641529eb3f8044b61692f",
+        "data_path": "/mnt/mydisk/data/tiny2/f98f9602167641529eb3f8044b61692f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "9f43d0ac857541e8a3a92e20ba284c44",
+        "data_path": "/mnt/mydisk/data/tiny2/9f43d0ac857541e8a3a92e20ba284c44.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d34629ae9cf3432188545f36ac1d9cb8",
+        "data_path": "/mnt/mydisk/data/tiny2/d34629ae9cf3432188545f36ac1d9cb8.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "00790c705e4c4a1fbc0af9bf5c9e9525",
+        "data_path": "/mnt/mydisk/data/tiny2/00790c705e4c4a1fbc0af9bf5c9e9525.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "3a5ed2b8d5c5468897e797dcaba508a1",
+        "data_path": "/mnt/mydisk/data/tiny2/3a5ed2b8d5c5468897e797dcaba508a1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "77d56cc994f94d8280c38009688e7413",
+        "data_path": "/mnt/mydisk/data/tiny2/77d56cc994f94d8280c38009688e7413.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4119064c292c4a6c8fc6236a8034c2f1",
+        "data_path": "/mnt/mydisk/data/tiny2/4119064c292c4a6c8fc6236a8034c2f1.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "84c69258a64f421080b44ed49650da52",
+        "data_path": "/mnt/mydisk/data/tiny2/84c69258a64f421080b44ed49650da52.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b8915325eadc4f86af543daaf10702de",
+        "data_path": "/mnt/mydisk/data/tiny2/b8915325eadc4f86af543daaf10702de.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "bd0b6595da8a420b86cd78ad905e1a13",
+        "data_path": "/mnt/mydisk/data/tiny2/bd0b6595da8a420b86cd78ad905e1a13.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8da95b178bc641d892f296e42c0ed8a0",
+        "data_path": "/mnt/mydisk/data/tiny2/8da95b178bc641d892f296e42c0ed8a0.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "670f26a742f748b6b7542e7730f9803a",
+        "data_path": "/mnt/mydisk/data/tiny2/670f26a742f748b6b7542e7730f9803a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f222afc918e14e93bcd98d98aed5c698",
+        "data_path": "/mnt/mydisk/data/tiny2/f222afc918e14e93bcd98d98aed5c698.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4ca574ac76344394b73acde0ef7b9bf4",
+        "data_path": "/mnt/mydisk/data/tiny2/4ca574ac76344394b73acde0ef7b9bf4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "66e6c396a23a446ebb0973de52181e94",
+        "data_path": "/mnt/mydisk/data/tiny2/66e6c396a23a446ebb0973de52181e94.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5c3ec179b3fb4fb1b006ff935d5dfb77",
+        "data_path": "/mnt/mydisk/data/tiny2/5c3ec179b3fb4fb1b006ff935d5dfb77.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "45adf40fce0a4690878d1c23c95f8477",
+        "data_path": "/mnt/mydisk/data/tiny2/45adf40fce0a4690878d1c23c95f8477.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "f044310ff65243f9b90fa0904025c034",
+        "data_path": "/mnt/mydisk/data/tiny2/f044310ff65243f9b90fa0904025c034.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "01b8043112e74366a21256d5e64398fb",
+        "data_path": "/mnt/mydisk/data/tiny2/01b8043112e74366a21256d5e64398fb.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4d350186abc74076ae0c7d91d04a78fa",
+        "data_path": "/mnt/mydisk/data/tiny2/4d350186abc74076ae0c7d91d04a78fa.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "611b64ba5c9f427aba7b20a8f4220a27",
+        "data_path": "/mnt/mydisk/data/tiny2/611b64ba5c9f427aba7b20a8f4220a27.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "053b8a4984e340ad94f3b563594ff09d",
+        "data_path": "/mnt/mydisk/data/tiny2/053b8a4984e340ad94f3b563594ff09d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "6499bf2bcc024d419bd23f4d2eb332ce",
+        "data_path": "/mnt/mydisk/data/tiny2/6499bf2bcc024d419bd23f4d2eb332ce.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "94f6eb48b8fe44c69dba4ef04cea53b4",
+        "data_path": "/mnt/mydisk/data/tiny2/94f6eb48b8fe44c69dba4ef04cea53b4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "31b3720044ca458d90461a4ba5a22abf",
+        "data_path": "/mnt/mydisk/data/tiny2/31b3720044ca458d90461a4ba5a22abf.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "87ae2a99547f4240a15f7fe30e9a7122",
+        "data_path": "/mnt/mydisk/data/tiny2/87ae2a99547f4240a15f7fe30e9a7122.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "8fb088daf56f434c9595b2d1e01ba2ea",
+        "data_path": "/mnt/mydisk/data/tiny2/8fb088daf56f434c9595b2d1e01ba2ea.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "45f763b1243e4836a75f22278b80f6fe",
+        "data_path": "/mnt/mydisk/data/tiny2/45f763b1243e4836a75f22278b80f6fe.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "42e5ff17de214f0d8aabd509f090a46c",
+        "data_path": "/mnt/mydisk/data/tiny2/42e5ff17de214f0d8aabd509f090a46c.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "5c729845f27e4f359d31521c69dc60e3",
+        "data_path": "/mnt/mydisk/data/tiny2/5c729845f27e4f359d31521c69dc60e3.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "fcc3241662174fbbb146e6cf658293a9",
+        "data_path": "/mnt/mydisk/data/tiny2/fcc3241662174fbbb146e6cf658293a9.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "2ef369ebae66464f9d2479057a6bf6d2",
+        "data_path": "/mnt/mydisk/data/tiny2/2ef369ebae66464f9d2479057a6bf6d2.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "b1d515a6cbe847ea91e2c5680b8fc67f",
+        "data_path": "/mnt/mydisk/data/tiny2/b1d515a6cbe847ea91e2c5680b8fc67f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "674e65a1f526461781e59ec49e7200bc",
+        "data_path": "/mnt/mydisk/data/tiny2/674e65a1f526461781e59ec49e7200bc.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "dcf35ae14df947a9a700b8bcff8db57f",
+        "data_path": "/mnt/mydisk/data/tiny2/dcf35ae14df947a9a700b8bcff8db57f.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "d1a5633cfa0740d59bce4d3ea051329d",
+        "data_path": "/mnt/mydisk/data/tiny2/d1a5633cfa0740d59bce4d3ea051329d.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "36793e98c89f41c186617d4581598ec4",
+        "data_path": "/mnt/mydisk/data/tiny2/36793e98c89f41c186617d4581598ec4.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "4d33f78f60a245e0b4cf812637509e9a",
+        "data_path": "/mnt/mydisk/data/tiny2/4d33f78f60a245e0b4cf812637509e9a.npy"
+    },
+    {
+        "dataset": "Objaverse",
+        "id": "c54bbdec340e4c71966aa36f5a8219cd",
+        "data_path": "/mnt/mydisk/data/tiny2/c54bbdec340e4c71966aa36f5a8219cd.npy"
+    }
+]

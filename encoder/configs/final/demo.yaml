@@ -1,0 +1,28 @@
+result_name: demo_test
+
+continue_ckpt: model/model.ckpt
+
+triplane_channels_low: 128
+triplane_channels_high: 512
+triplane_resolution: 128
+
+n_point_per_face: 1000
+n_sample_each: 10000
+is_pc : False
+remesh_demo : False
+
+dataset:
+  type: "Mix"
+  data_path: "objaverse_data"
+  train_batch_size: 1
+  val_batch_size: 1
+  train_num_workers: 16
+
+loss:
+  triplet: 1.0
+
+use_2d_feat: False
+pvcnn:
+  point_encoder_type: 'pvcnn'
+  z_triplane_channels: 256
+  z_triplane_resolution: 128

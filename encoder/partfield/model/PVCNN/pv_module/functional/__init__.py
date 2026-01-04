@@ -1,0 +1,1 @@
+from .devoxelization import trilinear_devoxelize

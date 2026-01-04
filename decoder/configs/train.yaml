@@ -1,0 +1,38 @@
+project_name: S2AM3D_decoder
+use_continuous_scale: true
+scale_dropout_rate: 0.1
+
+enhancer:
+  name: point_feature_enhancer
+  feature_dim: 448
+  pos_embed_dim: 384
+  feature_proj_dim: 384
+  pos_num_feats: 128
+  temperature: 10000
+  dropout: 0.1
+  scale_freq_bands: 64
+  transformer:
+    num_layers: 2
+    num_heads: 8
+    hidden_dim: 384
+    mlp_ratio: 4
+    qkv_bias: true
+    attn_drop: 0.1
+    proj_drop: 0.1
+    drop_path: 0.1
+  enhancefeat_dim: 384
+
+decoder:
+  num_layers: 4
+  num_heads: 8
+  hidden_dim: 384
+  mlp_ratio: 4
+  qkv_bias: true
+  attn_drop: 0.1
+  proj_drop: 0.1
+  drop_path: 0.1
+
+seg_head:
+  name: mlp
+  feature_dim: 384
+  dropout: 0.1

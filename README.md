@@ -4,7 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.00995-b31b1b.svg)](https://arxiv.org/abs/2512.00995)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sumuru789.github.io/S2AM3D-website/)
-[![Hugging Face Models](https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow)](https://huggingface.co/HITshan/S2AM3D)
+[![Hugging Face Models](https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow)](https://huggingface.co/HITshan/S2AM3D_Model)
 [![Hugging Face Dataset](https://img.shields.io/badge/🤗%20HuggingFace-Dataset-green)](https://huggingface.co/datasets/HITshan/S2AM3D_dataset)
 
 **Han Su, Tianyu Huang, Zichen Wan, Xiaohe Wu, Wangmeng Zuo***
@@ -30,7 +30,7 @@ Extensive experiments demonstrate that S²AM3D achieves leading performance acro
 
 ## 📥 Pretrained Models
 
-Download the pretrained models from [Hugging Face](https://huggingface.co/HITshan/S2AM3D) and place them in the `ckpt/` folder:
+Download the pretrained models from [Hugging Face](https://huggingface.co/HITshan/S2AM3D_Model) and place them in the `ckpt/` folder:
 
 ```bash
 mkdir -p ckpt

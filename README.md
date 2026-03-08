@@ -2,6 +2,8 @@
 
 # S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds
 
+### 🎉 Accepted by CVPR 2026
+
 [![arXiv](https://img.shields.io/badge/arXiv-2512.00995-b31b1b.svg)](https://arxiv.org/abs/2512.00995)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sumuru789.github.io/S2AM3D-website/)
 [![Hugging Face Models](https://img.shields.io/badge/🤗%20HuggingFace-Models-yellow)](https://huggingface.co/HITshan/S2AM3D_Model)
@@ -140,11 +142,14 @@ Download the dataset from [Hugging Face Datasets](https://huggingface.co/dataset
 If you find this work useful, please consider citing:
 
 ```bibtex
-@article{su2025s2am3d,
-    author = {Su, Han and Huang, Tianyu and Wan, Zichen and Wu, Xiaohe and Zuo, Wangmeng},
-    title = {S²AM3D: Scale-controllable Part Segmentation of 3D Point Cloud},
-    journal = {arXiv preprint arXiv:2512.00995},
-    year = {2025},
+@misc{su2025s2am3dscalecontrollablesegmentation3d,
+      title={S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud}, 
+      author={Han Su and Tianyu Huang and Zichen Wan and Xiaohe Wu and Wangmeng Zuo},
+      year={2025},
+      eprint={2512.00995},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.00995}, 
 }
 ```
 

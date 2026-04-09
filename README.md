@@ -2,7 +2,7 @@
 
 # S²AM3D: Scale-controllable Part Segmentation of 3D Point Clouds
 
-### 🎉 Accepted by CVPR 2026
+### 🎉 Accepted by CVPR 2026 （Oral）
 
 [![arXiv](https://img.shields.io/badge/arXiv-2512.00995-b31b1b.svg)](https://arxiv.org/abs/2512.00995)
 [![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://sumuru789.github.io/S2AM3D-website/)
@@ -18,14 +18,12 @@ Harbin Institute of Technology
 ---
 
 <div align="center">
-  <img src="assets/pipeline.png" width="100%">
+  <img src="assets/pipeline.png" width="100%%">
 </div>
 
 ## Abstract
 
-Part-level point cloud segmentation has recently attracted significant attention in 3D computer vision. Nevertheless, existing research is constrained by two major challenges: native 3D models lack generalization due to data scarcity, while introducing 2D pre-trained knowledge often leads to inconsistent segmentation results across different views.
-To address these challenges, we propose **S²AM3D**, which incorporates 2D segmentation priors with 3D consistent supervision. We design a *point-consistent part encoder* that aggregates multi-view 2D features through native 3D contrastive learning, producing globally consistent point features. A *scale-aware prompt decoder* is then proposed to enable real-time adjustment of segmentation granularity via continuous scale signals. Simultaneously, we introduce a large-scale, high-quality part-level point cloud dataset with more than 100k samples, providing ample supervision signals for model training.
-Extensive experiments demonstrate that S²AM3D achieves leading performance across multiple evaluation settings, exhibiting exceptional robustness and controllability when handling complex structures and parts with significant size variations.
+Part-level point cloud segmentation has recently attracted significant attention in 3D computer vision. Nevertheless, existing research is constrained by two major challenges: native 3D models lack fine-grained part understanding while employing 2D priors leads to inconsistent predictions. To address these challenges, we propose **S²AM3D**, which incorporates 2D segmentation priors with 3D consistent supervision. We design a *point-consistent part encoder* that aggregates multi-view information while respecting the 3D consistency of individual points. The decoder architecture introduces a *controllable part decoder* with a learnable weight generation module, facilitating flexible scaling of segmentation granularity. Extensive experiments demonstrate that S²AM3D achieves leading performance across multiple evaluation settings, exhibiting exceptional robustness and controllability when handling complex structures.
 
 ---
 
@@ -118,10 +116,10 @@ http://localhost:8080
 ## 📊 Dataset
 
 <div align="center">
-  <img src="assets/dataset.png" width="100%">
+  <img src="assets/dataset.png" width="100%%">
 </div>
 
-Using an automated data processing pipeline, we collect a dataset of over **100,000** point cloud instances spanning **400** categories, annotated with approximately **1.2 million** fine-grained part labels.
+Using an automated data processing pipeline, we collect a dataset of over **100,000** point cloud instances spanning **400** categories, annotated with approximately **1.2 million** fine-grained part labels at three granularity levels. This represents the most comprehensive dataset for part-level point cloud segmentation to date.
 
 ### Download
 
@@ -164,4 +162,3 @@ This project is built upon and inspired by the following excellent works:
 - [Segment Anything](https://github.com/facebookresearch/segment-anything) - Foundation model for image segmentation
 
 We thank the authors for their outstanding contributions to the community.
-

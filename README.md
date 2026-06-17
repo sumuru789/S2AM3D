@@ -23,7 +23,7 @@ Harbin Institute of Technology
 
 ## Abstract
 
-Part-level point cloud segmentation has recently attracted significant attention in 3D computer vision. Nevertheless, existing research is constrained by two major challenges: native 3D models lack fine-grained part understanding while employing 2D priors leads to inconsistent predictions. To address these challenges, we propose **S²AM3D**, which incorporates 2D segmentation priors with 3D consistent supervision. We design a *point-consistent part encoder* that aggregates multi-view information while respecting the 3D consistency of individual points. The decoder architecture introduces a *controllable part decoder* with a learnable weight generation module, facilitating flexible scaling of segmentation granularity. Extensive experiments demonstrate that S²AM3D achieves leading performance across multiple evaluation settings, exhibiting exceptional robustness and controllability when handling complex structures.
+Part-level point cloud segmentation has recently attracted significant attention in 3D computer vision. Nevertheless, existing research is constrained by two major challenges: native 3D models lac[...]
 
 ---
 
@@ -119,7 +119,7 @@ http://localhost:8080
   <img src="assets/dataset.png" width="100%%">
 </div>
 
-Using an automated data processing pipeline, we collect a dataset of over **100,000** point cloud instances spanning **400** categories, annotated with approximately **1.2 million** fine-grained part labels at three granularity levels. This represents the most comprehensive dataset for part-level point cloud segmentation to date.
+Using an automated data processing pipeline, we collect a dataset of over **100,000** point cloud instances spanning **400** categories, annotated with approximately **1.2 million** fine-grained [...]
 
 ### Download
 
@@ -140,14 +140,13 @@ Download the dataset from [Hugging Face Datasets](https://huggingface.co/dataset
 If you find this work useful, please consider citing:
 
 ```bibtex
-@misc{su2025s2am3dscalecontrollablesegmentation3d,
-      title={S2AM3D: Scale-controllable Part Segmentation of 3D Point Cloud}, 
-      author={Han Su and Tianyu Huang and Zichen Wan and Xiaohe Wu and Wangmeng Zuo},
-      year={2025},
-      eprint={2512.00995},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2512.00995}, 
+@InProceedings{Su_2026_CVPR,
+  author = {Su, Han and Huang, Tianyu and Wan, Zichen and Wu, Xiaohe and Zuo, Wangmeng},
+  title = {S\${\textasciicircum}2\$AM3D: Scale-controllable Part Segmentation of 3D Point Clouds},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2026},
+  pages = {14357-14366}
 }
 ```
 

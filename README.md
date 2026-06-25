@@ -140,13 +140,13 @@ Download the dataset from [Hugging Face Datasets](https://huggingface.co/dataset
 If you find this work useful, please consider citing:
 
 ```bibtex
-@InProceedings{Su_2026_CVPR,
-  author = {Su, Han and Huang, Tianyu and Wan, Zichen and Wu, Xiaohe and Zuo, Wangmeng},
-  title = {S\${\textasciicircum}2\$AM3D: Scale-controllable Part Segmentation of 3D Point Clouds},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2026},
-  pages = {14357-14366}
+@InProceedings{ su2026s2am3d,
+    author    = {Su, Han and Huang, Tianyu and Wan, Zichen and Wu, Xiaohe and Zuo, Wangmeng},
+    title     = {{S$^2$AM3D}: Scale-controllable Part Segmentation of 3D Point Clouds},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {14357--14366}
 }
 ```
 

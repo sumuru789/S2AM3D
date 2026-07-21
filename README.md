@@ -131,7 +131,8 @@ Download the dataset from [Hugging Face Datasets](https://huggingface.co/dataset
 
 - [ ] Release training code
 - [ ] Release evaluation code
-- [ ] Support more input formats
+- [x] Support more input formats
+- [x] Release data preprocessing scripts
 
 ---
 

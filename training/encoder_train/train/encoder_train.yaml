@@ -1,0 +1,41 @@
+result_name: train/results
+
+triplane_channels_low: 128
+triplane_channels_high: 512
+triplane_resolution: 128
+freeze_backbone: false
+training_epochs: 100
+
+batch_size: 18
+dataset_num_points: 10000
+contrast_num_points: 500
+temperature: 0.07
+
+optimizer:
+  lr: 1e-5
+  weight_decay: 1e-4
+
+n_point_per_face: 1000
+n_sample_each: 10000
+is_pc: true
+remesh_demo: false
+
+dataset:
+  type: "Mix"
+  data_path: "objaverse_data"
+  train_batch_size: 4
+  val_batch_size: 1
+  train_num_workers: 8
+  train_metadata_paths:
+    - meta/train_meta.example.json
+
+loss:
+  triplet: 1.0
+
+use_2d_feat: false
+use_color: false
+
+pvcnn:
+  point_encoder_type: 'pvcnn'
+  z_triplane_channels: 256
+  z_triplane_resolution: 128

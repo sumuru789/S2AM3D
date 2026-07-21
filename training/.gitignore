@@ -1,0 +1,10 @@
+**/__pycache__/
+**/*.pt
+**/*.pth
+**/*.ckpt
+**/exp/
+**/results/
+**/lightning_logs/
+**/internal/
+**/.venv/
+**/venv/

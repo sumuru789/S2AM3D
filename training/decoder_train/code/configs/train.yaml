@@ -1,0 +1,68 @@
+project_name: S2AM3D
+use_log: true
+use_continuous_scale: true
+scale_dropout_rate: 0.1
+
+seg_head:
+  name: mlp
+  feature_dim: 384
+  dropout: 0.1
+  mlp_hidden_dims:
+    - 64
+
+enhancer:
+  name: point_feature_enhancer
+  feature_dim: 448
+  pos_embed_dim: 384
+  feature_proj_dim: 384
+  pos_num_feats: 128
+  temperature: 10000
+  dropout: 0.1
+  scale_freq_bands: 64
+  transformer:
+    num_layers: 2
+    num_heads: 8
+    hidden_dim: 384
+    mlp_ratio: 4
+    qkv_bias: true
+    attn_drop: 0.1
+    proj_drop: 0.1
+    drop_path: 0.1
+  enhancefeat_dim: 384
+
+decoder:
+  num_layers: 4
+  num_heads: 8
+  hidden_dim: 384
+  mlp_ratio: 4
+  qkv_bias: true
+  attn_drop: 0.1
+  proj_drop: 0.1
+  drop_path: 0.1
+
+training:
+  lr: 0.0001
+  lr_decay_step: 10000
+  lr_decay_rate: 0.95
+  beta1: 0.9
+  beta2: 0.999
+  eps: 1.0e-8
+  warmup: 10000
+  max_epoch: 110
+  log_freq: 10
+  save_freq: 10
+
+dataset:
+  name: Four
+  train_split:
+    - meta/train_meta.example.json
+  feat_base_path: /path/to/pointpartsam_features
+  train_partial: -1
+  num_points: 10000
+  num_workers: 6
+  train_batch_size: 40
+  y_up: true
+  normalize: true
+  random_z_rotate: true
+  use_color: false
+  augment: true

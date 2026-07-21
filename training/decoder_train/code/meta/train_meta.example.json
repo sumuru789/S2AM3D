@@ -1,0 +1,12 @@
+[
+  {
+    "id": "sample_0001",
+    "data_path": "/path/to/point_clouds/sample_0001.npy",
+    "dataset": "Objaverse"
+  },
+  {
+    "id": "sample_0002",
+    "data_path": "/path/to/point_clouds/sample_0002.npy",
+    "dataset": "PartNet"
+  }
+]

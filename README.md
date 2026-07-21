@@ -129,8 +129,7 @@ Download the dataset from [Hugging Face Datasets](https://huggingface.co/dataset
 
 ## 📝 TODO
 
-- [ ] Release training code
-- [ ] Release evaluation code
+- [x] Release training code
 - [x] Support more input formats
 - [x] Release data preprocessing scripts
 

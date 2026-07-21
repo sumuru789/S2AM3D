@@ -1,0 +1,6 @@
+torch>=2.0
+numpy
+omegaconf
+tqdm
+open3d
+scikit-learn

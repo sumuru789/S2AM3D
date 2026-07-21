@@ -1,0 +1,10 @@
+train/results/
+lightning_logs/
+*.ckpt
+*.pt
+*.pth
+internal/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
